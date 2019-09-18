@@ -1,4 +1,7 @@
 .book {
   text-align: center;
-  background-color: blanchedalmond
+  background-color: blanchedalmond;
+  padding: 10px 50px;
+  margin: 20px auto;
+  width: 30%;
 }
